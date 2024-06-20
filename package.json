@@ -37,9 +37,4 @@
       "last 1 safari version"
     ]
   }
-  "homepage": "https://github.com/5staruser/Climbax-Assigment.git",
-  "scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
-  }
 }
